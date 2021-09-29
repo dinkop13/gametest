@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+}
+
+p {
+    font-size: 22px;
+    margin-bottom: 15px;
+
+}
+
+body {
+    background-color: rgb(173, 203, 218);
+}
+
+div {
+    background-color: burlywood;
+    padding: 10px;
+}
+
+#content {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+
+    padding: 30px;
+    
+    background-color: rgb(228, 246, 255);
+
+    border-radius: 0px 0px 12px 12px;
+    box-shadow: 0px 0px 40px rgb(126, 154, 168);
+}
+
+.box {
+    border-radius: 6px;
+    margin-bottom: 10px ;
+    background-color: rgb(9, 53, 92);
+    border: solid 1px  rgb(31, 77, 138);
+}
+
+.about{
+    display: none;
+}
